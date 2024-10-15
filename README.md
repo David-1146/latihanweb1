@@ -1,2 +1,3 @@
-# latihanweb1
-nama :david wilda sanjaya nim :2205101146
+# latihanmodul1
+nama :david wilda sanjaya
+nim  :2205101146
